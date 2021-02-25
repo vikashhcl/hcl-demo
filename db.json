@@ -1,0 +1,207 @@
+{
+  "user_details": [
+    {
+      "id": 1,
+      "userName": "vikash@hcl",
+      "password": "4444",
+      "user_type": 0
+    },
+    {
+      "id": 2,
+      "userName": "chandan@hcl",
+      "password": "1234",
+      "user_type": 0
+    },
+    {
+      "id": 3,
+      "userName": "admin",
+      "password": "1234",
+      "user_type": 1
+    }
+  ],
+  "subscribe": [
+    {
+      "email": "hhhh@hjhh",
+      "id": 1
+    },
+    {
+      "email": "hhhh@hjhh",
+      "id": 2
+    },
+    {
+      "email": "manoj@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "manoj@gmail.com",
+      "id": 4
+    }
+  ],
+  "college": [
+    {
+      "id": 1,
+      "college_name": "Indian Institute of Technology",
+      "photo": "https://data1.ibtimes.co.in/cache-img-600-0/en/full/574406/imgindian-institute-technology-madras.jpg",
+      "city": "Chennai",
+      "branch": [
+        "BCA",
+        "MCA",
+        "ECE",
+        "CS"
+      ],
+      "collegeCode": "IITCHE1950",
+      "contact": "N/A"
+    },
+    {
+      "id": 2,
+      "college_name": "Dayananda Sagar College of Engineering",
+      "photo": "https://tse3.mm.bing.net/th/id/OIP.gWOqWSH5kxoMDAMUYOEusgHaEw?pid=Api&rs=1",
+      "city": "Bangalore",
+      "branch": [
+        "BE",
+        "MCA",
+        "ECE",
+        "CS"
+      ],
+      "collegeCode": "DSCEBNG1980",
+      "contact": "N/A"
+    },
+    {
+      "id": 3,
+      "college_name": "RV College of Engineering",
+      "photo": "https://tse2.mm.bing.net/th/id/OIP.8O5d9C2CArOudKI4cMGUZgHaDh?pid=Api&rs=1",
+      "city": "Bangalore",
+      "branch": [
+        "BE",
+        "ECE",
+        "CS"
+      ],
+      "collegeCode": "RVCE1978",
+      "contact": "N/A"
+    },
+    {
+      "id": 4,
+      "college_name": "Presidency University",
+      "photo": "https://www.careerindia.com/img/2014/06/13-06-presidencyuniversity.jpg",
+      "city": "Bangalore",
+      "branch": [
+        "BE",
+        "ECE",
+        "CS",
+        "CIVIL"
+      ],
+      "collegeCode": "PU1960",
+      "contact": "N/A"
+    },
+    {
+      "id": 5,
+      "college_name": "Sathyabama Institute of Science and Technology",
+      "photo": "https://2.bp.blogspot.com/-wnKSadY2ylM/ThhyQaY-GKI/AAAAAAAAAEo/atyhPYJ1_NU/s1600/20110515065536887_Sathyabama_Institute_of_Science_and_Technology.jpeg",
+      "city": "Chennai",
+      "branch": [
+        "BTECH",
+        "ECE",
+        "CS",
+        "CIVIL"
+      ],
+      "collegeCode": "SIST1890",
+      "contact": "N/A"
+    }
+  ],
+  "userRegistration": [
+    {
+      "name": "vikash",
+      "address": "Noida, UP",
+      "email": "vikashraushan87@gmail.com",
+      "age": "20",
+      "phone": "9891377909",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "Prithavi",
+      "address": "Bangalore",
+      "email": "prithavi@hcl.com",
+      "age": "30",
+      "phone": "1234567892",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "name": "Rama",
+      "address": "Chennai",
+      "email": "rama@rama.com",
+      "age": "30",
+      "phone": "5375836576",
+      "gender": "Male",
+      "id": 4
+    }
+  ],
+  "enrolled": [
+    {
+      "userName": "vikash@hcl",
+      "userType": 0,
+      "college_id": 1,
+      "photo": "https://data1.ibtimes.co.in/cache-img-600-0/en/full/574406/imgindian-institute-technology-madras.jpg",
+      "title": "Indian Institute of Technology",
+      "city": "Chennai",
+      "branch": "MCA",
+      "collegeCode": "IITCHE1950",
+      "contact": "N/A",
+      "requestStatus": "approved",
+      "id": 2
+    },
+    {
+      "userName": "admin",
+      "userType": 1,
+      "college_id": 2,
+      "photo": "https://tse3.mm.bing.net/th/id/OIP.gWOqWSH5kxoMDAMUYOEusgHaEw?pid=Api&rs=1",
+      "title": "Dayananda Sagar College of Engineering",
+      "city": "Bangalore",
+      "branch": "BE",
+      "collegeCode": "DSCEBNG1980",
+      "contact": "N/A",
+      "requestStatus": "rejected",
+      "id": 3
+    },
+    {
+      "userName": "admin",
+      "userType": 1,
+      "college_id": 1,
+      "photo": "https://data1.ibtimes.co.in/cache-img-600-0/en/full/574406/imgindian-institute-technology-madras.jpg",
+      "title": "Indian Institute of Technology",
+      "city": "Chennai",
+      "branch": "MCA",
+      "collegeCode": "IITCHE1950",
+      "contact": "N/A",
+      "requestStatus": "rejected",
+      "id": 4
+    },
+    {
+      "userName": "admin",
+      "userType": 1,
+      "college_id": 2,
+      "photo": "https://tse3.mm.bing.net/th/id/OIP.gWOqWSH5kxoMDAMUYOEusgHaEw?pid=Api&rs=1",
+      "title": "Dayananda Sagar College of Engineering",
+      "city": "Bangalore",
+      "branch": "BE",
+      "collegeCode": "DSCEBNG1980",
+      "contact": "N/A",
+      "requestStatus": "rejected",
+      "id": 5
+    },
+    {
+      "userName": "vikash@hcl",
+      "userType": 0,
+      "college_id": 2,
+      "photo": "https://tse3.mm.bing.net/th/id/OIP.gWOqWSH5kxoMDAMUYOEusgHaEw?pid=Api&rs=1",
+      "title": "Dayananda Sagar College of Engineering",
+      "city": "Bangalore",
+      "branch": "MCA",
+      "collegeCode": "DSCEBNG1980",
+      "contact": "N/A",
+      "requestStatus": "approved",
+      "id": 6
+    }
+  ]
+}
